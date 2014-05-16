@@ -311,6 +311,7 @@ public class Transfer
 			
 			if (Data.Receive(SocketInputStream) != -1)
 			{
+			    // deal with different type of package
 				switch (Data.GetType().ordinal())
 				{
 					case CONSTANT.USERNAME:
