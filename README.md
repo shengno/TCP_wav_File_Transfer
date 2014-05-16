@@ -2,7 +2,7 @@ TCP_wav_File_Transfer
 =====================
 This is a java implementation in tcp file transfer. The transfer is sending the wav file.
 
-The file sended is by package which size is 1024 byte. 
+The file sended is by package which size is 2048 byte. 
 
 
 Clint
